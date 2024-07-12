@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3kKPcpFPWv8qpjbQwI9qlDQaioD1KUm+MyRnfPL8DcgBbZVJiCCANRP3qZGV92Gt+64MBiKulIHNjegZH8lSDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Velaz\\source\\repos\\Project1\\loteria\\loteria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Velaz\\.nuget\\packages\\litedb\\5.0.20\\litedb.5.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
