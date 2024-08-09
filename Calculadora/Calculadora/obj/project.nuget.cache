@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OY5g6Iw8HXCC7Y8jPRsOy8Bjx0LrnBB1QF8gBcSMiOtIkp4EvtvgmBbmodjy8sHEbhTC0ZosSaAWJt9/ep1tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Velaz\\Desktop\\Compressed\\Calculadora-main\\Calculadora-main\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Velaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Velaz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Velaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Velaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
